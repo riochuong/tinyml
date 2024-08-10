@@ -1,3 +1,8 @@
 *.vscode
 *.pyc
-
+tinyml/
+data/
+assets/
+acc_datasets/
+mcunet/
+*.pth
